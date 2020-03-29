@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.logging.Logger;
 
-//to store node data and pinter to next node
+//to store node data and pointer to next node
 class Node {
     String data;
     Node next = null;
